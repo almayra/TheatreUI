@@ -1,0 +1,4 @@
+export const APIURL='http://localhost:2000/'
+export const MOVIE='https://cdn1.imggmi.com/uploads/2019/12/14/a495a848b4a719e4d7e5440ec201fb4d-full.png?__cf_chl_jschl_tk__=5289510366261fc971a8a6dacbc222471ed92623-1576575297-0-AcE961PqjHqEjyLF88J30AFhSLP2mgfi8FB_xCwFivSKCelbfIHCUnNbVlmDOPFBcYai9jaQrnXGXZtgV-NPOywxcr_ASBUvBuTOSc0tJZi2JMzC_gQAOLg4ME51t0kfBO1X0z5ArgZh-a1sd0EJXrclRjW26mShqScEhotLEiTNVZ5WPa0oxlsLG7NDh4e0PtHRu18vMG-6Ito6_EijtpYT8V0ANcixoCAe_qEl2uvxPoX5SdqIBLD2d2vlIwGBjELk0wpQvKBFq9Pt0bimGq1eGqiZygjJM1OylK-MN3FDyc_O5FUJuX_qg4tq7BA87bjzVjpBXBfijIg1oBm7NkU'
+export const MOVIE1='https://cdn1.imggmi.com/uploads/2019/12/11/e13f93085990909cc6934ea0f8b0ff20-full.png'
+export const MOVIE2='https://cdn1.imggmi.com/uploads/2019/12/14/cc317733a60277ab9387c1661959197b-full.png'
